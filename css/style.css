@@ -47,7 +47,7 @@ display: flex;
 .card-container .card-back{
     top: 2rem;
     right: 1rem;
-    background: url(../images/bg-card-back.png) no-repeat;
+    background: url('../images/bg-card-front.png') no-repeat;
     background-size: 100% 100%;
 }
 .card-back .cvc-output{
